@@ -38,7 +38,4 @@
 
 ---
 
-## วิธีใช้งานโดยสรุป
-- รัน `Server.java` และ `Client.java` เพื่อทดสอบการส่งไฟล์
-- รัน `ProcessNode.java` หลาย instance เพื่อจำลองระบบ Distributed
 
